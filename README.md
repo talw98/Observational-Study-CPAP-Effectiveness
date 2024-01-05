@@ -1,6 +1,8 @@
 # Observational-Study-CPAP-Effectiveness
 "Explore the effectiveness of CPAP therapy through rigorous observational study and statistical analyses using R."
 
+This project was an assignment of my Master's degree at Universite Grenoble Alpes.
+
 # Exhaustive Analysis of CPAP Therapy: Unraveling Insights through Advanced Statistical Techniques
 
 ## Introduction
